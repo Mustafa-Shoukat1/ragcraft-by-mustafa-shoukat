@@ -211,16 +211,7 @@ Contributions are welcome and highly appreciated! Here's how you can contribute:
 
 🌟 **Don’t miss out on future updates! Star the repo now and be the first to know about new and exciting LLM apps with RAG and AI Agents.**
 
----
 
-## 📝 License
-
-This project is open-source. Please add a `LICENSE` file to specify the terms under which it is shared (e.g., MIT, Apache 2.0).
-
-Example:
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
-*(You'll need to create a LICENSE.md file if you choose to add one)*
 
 ---
 
