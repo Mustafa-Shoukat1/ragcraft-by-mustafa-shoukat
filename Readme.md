@@ -1,8 +1,11 @@
-# 🌟 Awesome LLM Apps
+# 🌟 Awesome RAG Apps
+
 
 <p align="center">
   <em>A curated collection of RAG apps built with LLM, AI Agents, Multi-agent Teams, MCP, Agents-Based RAG, and more. This repository features RAG apps that use models from OpenAI, Anthropic, Google, and open-source models like DeepSeek, Qwen, or Llama that you can run locally on your computer or via APIs.</em>
 </p>
+
+![diagram (4)](https://github.com/user-attachments/assets/07104847-42e4-4512-8bbc-711dad5aa2f3)
 
 <p align="center">
   <img src="https://th.bing.com/th/id/R.23b8ca23938cdddef47d5c1a63efccc5?rik=qw1BV30irxq%2bpQ&pid=ImgRaw&r=0" width="300" alt="Awesome LLM Apps GIF">
