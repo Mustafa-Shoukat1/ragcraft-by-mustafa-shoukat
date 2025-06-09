@@ -1,7 +1,7 @@
 ## 🗃️ AI RAG Agent with Web Access 
 This script demonstrates how to build a Retrieval-Augmented Generation (RAG) agent with web access using GPT-4o in just 15 lines of Python code. The agent uses a PDF knowledge base and has the ability to search the web using DuckDuckGo.
 
-### Features
+### Features : 
 
 - Creates a RAG agent using GPT-4o
 - Incorporates a PDF-based knowledge base
