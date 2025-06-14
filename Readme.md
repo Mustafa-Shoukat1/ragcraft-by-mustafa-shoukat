@@ -11,7 +11,7 @@
   <img src="https://th.bing.com/th/id/R.23b8ca23938cdddef47d5c1a63efccc5?rik=qw1BV30irxq%2bpQ&pid=ImgRaw&r=0" width="300" alt="Awesome LLM Apps GIF">
 </p>
 
----
+----
 
 ## 📜 Table of Contents
 
